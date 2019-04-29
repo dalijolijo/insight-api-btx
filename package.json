@@ -70,8 +70,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-btx": "git://github.com/dalijolijo/bitcore-lib-btx#master",
-    "bitcore-message-btx": "git://github.com/dalijolijo/bitcore-message-btx#master",
+    "bitcore-lib-btx": "git://github.com/limxtec/bitcore-lib-btx#master",
+    "bitcore-message-btx": "git://github.com/limxtec/bitcore-message-btx#master",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": ">=4.17.5",
